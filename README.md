@@ -25,7 +25,7 @@ This test suite includes basic validation of three (3) of the [Open Weather API]
 - To run all tests in the test suite:
   - pytest tests/*
 - To run a specific test in the test suite:
-  - pytest tests/<test_case>.py
+  - pytest tests/OpenWeather/<test_case>.py
 
 #### Reporting
 ##### Test Reports: pytest-html
