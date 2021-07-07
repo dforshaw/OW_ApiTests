@@ -10,6 +10,7 @@ This test suite includes basic validation of three (3) of the [Open Weather API]
 - Python 3 should be installed
 - Clone the repository to your local environment
 - Create a virtual environment in the local project folder
+  - python -m venv venv-ow
 - Install the needed support packages
     - pip install -r requirements.txt
 
