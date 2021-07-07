@@ -9,5 +9,5 @@ def baseurl_value():
 
 @pytest.fixture
 def appid_value():
-    appid = '21f40765a37081dd79daea2d68d09de9'
+    appid = '<Enter OPEN WEATHER API ID here>'
     return appid
