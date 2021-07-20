@@ -1,5 +1,6 @@
 import pytest
 
+
 # All API calls fall under the Base URL
 @pytest.fixture
 def baseurl_value():
